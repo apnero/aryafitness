@@ -54,7 +54,7 @@ var _bg_style_mobile =                  8;
 
 // if _bg_style == 4 - 6 (slideshow)
 var _bg_slideshow_image_amount =        2; // slideshow image amount
-var _bg_slideshow_duration =            9000; // millisecond
+var _bg_slideshow_duration =            20000; // millisecond
 
 // if _bg_style == 10 - 12 (youtube video)
 var _bg_video_youtube_url =             'SJwBTUSqLa0'; // youtube video url id - https://www.youtube.com/watch?v=SJwBTUSqLa0

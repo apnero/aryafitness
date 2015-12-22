@@ -141,7 +141,7 @@ img {
 
 /* color */
 .color {
-  color: #ec387d;
+  color: #000000;
 }
 
 /* align */
@@ -560,8 +560,8 @@ i {
 }
 
 .btn-theme {
-  border-color: #ec387d;
-  background-color: #ec387d;
+  border-color: rgb(22, 127, 167);
+  background-color: rgb(22, 127, 167);
   color: #fff;
 }
 
@@ -624,7 +624,7 @@ i {
 }
 
 .btn-wrap .btn {
-  margin: 10px 5px 0;
+  margin: 290px 0px 0;
 }
 
 @media (min-width: 992px) {
