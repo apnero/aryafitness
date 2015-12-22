@@ -114,14 +114,23 @@ hr {
 }
 /* Background color classes */
 .bg-custom {
-	background-color: rgba(105, 64, 83, 0.85);
+	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#1e5799+0,7db9e8+99,7db9e8+100&0.7+0,1+76 */
+	/*background-color: rgba(105, 64, 83, 0.85);*/
+	background: -moz-linear-gradient(-45deg, rgba(30,87,153,0.6) 0%, rgba(103,162,214,1) 76%, rgba(125,185,232,1) 99%, rgba(125,185,232,1) 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(-45deg, rgba(30,87,153,0.6) 0%,rgba(103,162,214,1) 76%,rgba(125,185,232,1) 99%,rgba(125,185,232,1) 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(135deg, rgba(30,87,153,0.6) 0%,rgba(103,162,214,1) 76%,rgba(125,185,232,1) 99%,rgba(125,185,232,1) 100%);
 }
 
 .bg-custom2 {
-	background-color: rgba(99, 108, 226, 0.8)
-}
+/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#b73c26+0,bf2713+99,f6290c+100,f16f5c+100,e73827+100&0.6+0,1+76 */
+background: -moz-linear-gradient(-45deg, rgba(183,60,38,0.6) 0%, rgba(189,44,23,1) 76%, rgba(191,39,19,1) 99%, rgba(231,56,39,1) 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(-45deg, rgba(183,60,38,0.6) 0%,rgba(189,44,23,1) 76%,rgba(191,39,19,1) 99%,rgba(231,56,39,1) 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(135deg, rgba(183,60,38,0.6) 0%,rgba(189,44,23,1) 76%,rgba(191,39,19,1) 99%,rgba(231,56,39,1) 100%);}
 .bg-custom3 {
-	background-color: rgba(179, 106, 33, 0.8);
+	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#ddddce+0,909624+100&0.6+0,1+78 */
+background: -moz-linear-gradient(-45deg, rgba(221,221,206,0.6) 0%, rgba(161,166,73,1) 78%, rgba(144,150,36,1) 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(-45deg, rgba(221,221,206,0.6) 0%,rgba(161,166,73,1) 78%,rgba(144,150,36,1) 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(135deg, rgba(221,221,206,0.6) 0%,rgba(161,166,73,1) 78%,rgba(144,150,36,1) 100%);
 }
 .bg-white {
   background-color: #ffffff !important;
