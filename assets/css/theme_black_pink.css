@@ -624,7 +624,7 @@ i {
 }
 
 .btn-wrap .btn {
-  margin: 290px 0px 0;
+  margin: 10px 0px 0;
 }
 
 @media (min-width: 992px) {
@@ -1689,7 +1689,7 @@ i {
 .about__item {
   position: relative;
   margin-bottom: 30px;
-  padding-left: 76px;
+  padding-left: 40px;
 }
 
 .about__item:last-child {
@@ -1729,7 +1729,7 @@ i {
 
 @media (min-width: 992px) {
   .about__item {
-    padding-left: 86px;
+    padding-left: 50px;
   }
   .about__item i {
     width: 66px;
@@ -1848,7 +1848,7 @@ i {
 
 @media (min-width: 992px) {
   .contact-info__item {
-    padding-left: 86px;
+    padding-left: 76px;
     margin-bottom: 50px;
   }
   .contact-info__item i {
@@ -2567,7 +2567,7 @@ i {
 }
 
 .about__item li {
-  font: 200 20px/1.5 Helvetica, Verdana, sans-serif;
+/*  font: 200 20px/1.5 Helvetica, Verdana, sans-serif;*/
   border-bottom: 1px solid #ccc;
 }
 
@@ -2576,14 +2576,14 @@ i {
 }
 
 .about__item li a {
-  text-decoration: none;
+/*  text-decoration: none;*/
   color: #fff;
   -webkit-transition: font-size 0.3s ease, background-color 0.3s ease;
   -moz-transition: font-size 0.3s ease, background-color 0.3s ease;
   -o-transition: font-size 0.3s ease, background-color 0.3s ease;
   -ms-transition: font-size 0.3s ease, background-color 0.3s ease;
   transition: font-size 0.3s ease, background-color 0.3s ease;
-  display: block;
+/*  display: block;*/
 }
 
 .about__item li a:hover {
@@ -2597,7 +2597,7 @@ i {
 
 
 .contact-info {
-  padding: 50px;
-  padding-left: 70px;
-  padding-right: 70px;
+  padding: 40px;
+  padding-left: 25px;
+  padding-right: 50px;
 }
