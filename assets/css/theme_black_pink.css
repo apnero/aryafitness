@@ -1718,7 +1718,7 @@ i {
 }
 
 .about__item h3 {
-  color: #ec387d;
+  color: rgb(0, 185, 255);
 }
 
 @media (max-width: 991px) {
@@ -1833,14 +1833,13 @@ i {
   line-height: 56px;
   font-size: 25px;
   text-align: center;
-  background-color: #ec387d;
-  color: #fff;
+  background-color: rgb(0, 185, 255);
 }
 
 .contact-info__item h3 {
   line-height: 1;
   margin-bottom: 10px;
-  color: #ec387d;
+  color: rgb(0, 185, 255);
 }
 
 .contact-info__item p {
@@ -2558,4 +2557,47 @@ i {
   .site-footer__social {
     display: none;
   }
+}
+
+
+.about__item ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.about__item li {
+  font: 200 20px/1.5 Helvetica, Verdana, sans-serif;
+  border-bottom: 1px solid #ccc;
+}
+
+.about__item li:last-child {
+  border: none;
+}
+
+.about__item li a {
+  text-decoration: none;
+  color: #fff;
+  -webkit-transition: font-size 0.3s ease, background-color 0.3s ease;
+  -moz-transition: font-size 0.3s ease, background-color 0.3s ease;
+  -o-transition: font-size 0.3s ease, background-color 0.3s ease;
+  -ms-transition: font-size 0.3s ease, background-color 0.3s ease;
+  transition: font-size 0.3s ease, background-color 0.3s ease;
+  display: block;
+}
+
+.about__item li a:hover {
+  font-size: 22px;
+  background: rgba(10, 58, 58, 0.44);
+}
+
+.schedule {
+  background: rgba(10, 58, 58, 0.27);
+}
+
+
+.contact-info {
+  padding: 50px;
+  padding-left: 70px;
+  padding-right: 70px;
 }
