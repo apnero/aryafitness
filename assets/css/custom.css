@@ -17,3 +17,18 @@
   background-color: rgba(30, 31, 37, 0.45);
 }
 
+
+.description > p {
+/*	color: black;
+	font: 25px;*/
+	display: none;
+}
+/*#test:hover + p {
+	display: block;
+}*/
+
+
+.description > a:hover + p {
+	display: block;
+	margin-bottom: 40px;
+}
