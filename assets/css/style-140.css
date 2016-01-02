@@ -8,7 +8,7 @@ Designed by : http://responsivewebinc.com
 	acolor: #666666;
 	font-size: 13px;
 	line-height: 23px;
-	
+
 	font-family: 'Open Sans', sans-serif;
 	-webkit-font-smoothing: antialiased;
 }
@@ -558,7 +558,7 @@ background: linear-gradient(135deg, rgba(21,221,206,0.9) 0%,rgba(161,166,73,1) 7
 }
 .ui-140 .ui-item{
 	max-width:300px;
-	height: 510px;
+	height: 470px;
 	margin:20px auto;
 	position:relative;
 	padding-bottom:60px;
@@ -573,11 +573,11 @@ background: linear-gradient(135deg, rgba(21,221,206,0.9) 0%,rgba(161,166,73,1) 7
 
 .ui-140 .ui-item > a > i.icon{
 	font-size:70px;
-	line-height:80px;	
+	line-height:80px;
 	margin-left:30px;
 	margin-top:30px;
 	color:rgba(0,0,0,0.2);
-	margin-bottom:40px;	
+	margin-bottom:40px;
 	text-shadow:4px 4px 0 rgba(0,0,0,0.05);
 }
 .ui-140 .ui-item h4{
