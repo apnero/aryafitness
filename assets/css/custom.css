@@ -30,17 +30,17 @@
 
 .description > a:hover + p {
 	display: block;
-	margin-bottom: 20px;
+	margin-bottom: 10px;
 }
 
 .description > a:hover + p + p {
 	display: block;
-	margin-bottom: 20px;
+	margin-bottom: 10px;
 }
 
 .description > a:hover + p + p + p {
 	display: block;
-	margin-bottom: 20px;
+	margin-bottom: 10px;
 }
 
 #buy {
