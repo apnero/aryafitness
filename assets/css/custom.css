@@ -30,9 +30,18 @@
 
 .description > a:hover + p {
 	display: block;
+	margin-bottom: 20px;
+}
+
+.description > a:hover + p + p {
+	display: block;
 	margin-bottom: 40px;
 }
 
+.description > a:hover + p + p + p {
+	display: block;
+	margin-bottom: 40px;
+}
 
 #buy {
 
