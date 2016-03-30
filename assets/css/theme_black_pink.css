@@ -1253,17 +1253,18 @@ i {
 
 @media (min-width: 992px) {
   .hr {
-    margin: 30px 0;
+    margin: 30px 0 0 0;
   }
 }
 
 .section__heading {
-  margin-bottom: 40px;
+  margin-bottom: 20px;
+  margin-top: 50px;
 }
 
 @media (min-width: 992px) {
   .section__heading {
-    margin-bottom: 60px;
+    margin-bottom: 20px;
   }
 }
 
